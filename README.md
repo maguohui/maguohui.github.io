@@ -102,7 +102,7 @@ __粗体2__
 >中括号[ ]里的id，可以是数字，字母。这两行可以不连着写，一般把第二行的链接统一放在文章末尾，id上下对应就行了。这样正文看起来会比较干净。
 
 ###链接本仓库里的URL
-[Book](./Book)
+[Book](./PersonalResum)
 ###锚点
 我们可以使用HTML的锚点标签来设置锚点：[回到目录](#index)  
 但其实呢，每一个标题都是一个锚点，不需要用标签来指定，比如我们 [回到顶部](#TEST)
@@ -229,4 +229,4 @@ Github的Markdown语法支持添加emoji表情，输入不同的符号码（两�
 
 具体每一个表情的符号码，可以查询GitHub的官方网页http://www.emoji-cheat-sheet.com/。
 
-但是这个网页每次都打开**奇慢**。。所以我整理到了本repo中，大家可以直接在此查看[emoji](./emoji.md)。
+但是这个网页每次都打开**奇慢**。。所以我整理到了本repo中，大家可以直接在此查看[emoji](https://github.com/guodongxiaren/test/blob/master/emoji.md)。
