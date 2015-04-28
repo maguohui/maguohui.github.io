@@ -1,7 +1,7 @@
 maguohui.github.io
 ==================
 
-maguohui home page
+maguohui home page [访问](http://maguohui.github.io/ "maguohui.github.io")
 
 TEST
 ===========================
